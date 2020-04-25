@@ -1,0 +1,2 @@
+model_checkpoint_path: "1dcnn-plain-100"
+all_model_checkpoint_paths: "1dcnn-plain-100"
